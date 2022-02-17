@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\bin\Debug\net5.0\PoziomJezykowy.exe
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\bin\Debug\net5.0\PoziomJezykowy.deps.json
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\bin\Debug\net5.0\PoziomJezykowy.runtimeconfig.json
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\bin\Debug\net5.0\PoziomJezykowy.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\bin\Debug\net5.0\PoziomJezykowy.dll
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\bin\Debug\net5.0\ref\PoziomJezykowy.dll
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\bin\Debug\net5.0\PoziomJezykowy.pdb
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\obj\Debug\net5.0\PoziomJezykowy.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\obj\Debug\net5.0\PoziomJezykowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\obj\Debug\net5.0\PoziomJezykowy.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\obj\Debug\net5.0\PoziomJezykowy.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\obj\Debug\net5.0\PoziomJezykowy.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\obj\Debug\net5.0\PoziomJezykowy.dll
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\obj\Debug\net5.0\ref\PoziomJezykowy.dll
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\obj\Debug\net5.0\PoziomJezykowy.pdb
+C:\Users\ACER\Desktop\Projekt\PoziomJezykowy\PoziomJezykowy\obj\Debug\net5.0\PoziomJezykowy.genruntimeconfig.cache
